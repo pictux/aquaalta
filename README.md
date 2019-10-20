@@ -1,11 +1,11 @@
-#AQUA ALTA
-#####“Rising Water” Challenge
+# AQUA ALTA
+##### “Rising Water” Challenge
 
 
-###Short Description
+### Short Description
 Aqua Alta is an interactive installation useful to explain people what would happen it the temperature will raise.
 
-####Introduction
+#### Introduction
 Temperature in our planet is rising. 
 We all have seen Greta trying to point the attention to this in front of government and people.
 We have seen our kids in our local squares collecting trash, trying to put a patch on something that is already going on.
@@ -15,7 +15,7 @@ We can do on our own and collectively something, and of course for first we must
 Not everybody has in mind what does it mean.
 They need something easy to understand, that can explain them the impact of one simple degree more, and more than that.
 
-###Implementation
+### Implementation
 We have decided so to work on a panel.
 This panel is portable, so you can move it on every place / event you want.
 This panel is done with lasercutted wood, there’s a standard monitor, and a little Arduino.
@@ -24,7 +24,7 @@ Everything at low cost, and you can build up everything easly in one of the 1500
 We have experienced in many museum that a physical interface  engage more the visitors and the people passing in front of it than a touch interface, and we have seen that a table / totem installation is more valid than a smartphone app, that will be lost between hundred other apps.
 
 So we worked on different aspects:
-####Where collect the data needed
+#### Where collect the data needed
 we have looked between the data published by NASA, and the graphical tools released by them:
 https://sealevel.nasa.gov/data/virtual-earth-system-laboratory
 https://sealevel.nasa.gov/vesl/web/sea-level/slr-eustatic/
@@ -43,7 +43,7 @@ https://en.wikipedia.org/wiki/
 
 The city is choosen programmatically using the IP address of the device running the app, using public API. 
 
-####What we wanted to show
+#### What we wanted to show
 Our idea is to show, in this first prototype:
 population
 area
@@ -66,7 +66,7 @@ And how the sea level and temperature raising will change them together with eco
 
 
 
-####How we want to show them
+#### How we want to show them
 We have choosen a physical slider that allows people to decide how much degrees to increase.
 That is at the moment the only value that a person can change.
 In the next version people will be able to choose different cities.
