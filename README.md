@@ -25,30 +25,30 @@ We have experienced in many museum that a physical interface  engage more the vi
 
 So we worked on different aspects:
 #### Where collect the data needed
-we have looked between the data published by NASA, and the graphical tools released by them:
-⋅⋅*https://sealevel.nasa.gov/data/virtual-earth-system-laboratory
-⋅⋅*https://sealevel.nasa.gov/vesl/web/sea-level/slr-eustatic/
-⋅⋅*https://sealevel.nasa.gov/vesl/web/sea-level/slr-uplift/
-⋅⋅*https://sealevel.nasa.gov/data-analysis-tool
+we have looked between the data published by NASA, and the graphical tools released by them:  
+https://sealevel.nasa.gov/data/virtual-earth-system-laboratory  
+https://sealevel.nasa.gov/vesl/web/sea-level/slr-eustatic/  
+https://sealevel.nasa.gov/vesl/web/sea-level/slr-uplift/  
+https://sealevel.nasa.gov/data-analysis-tool  
 
-We mixed that information with other platform available online, to grab the data regarding the relationship between the world temperature raising and the sea level:
-⋅⋅*https://tidesandcurrents.noaa.gov/sltrends/sltrends.html
-⋅⋅*http://www.floodmap.net/
-⋅⋅*https://sealevel.nasa.gov/data-analysis-tool
-⋅⋅*https://www.sealevels.org/#sources
-⋅⋅*https://seeing.climatecentral.org
+We mixed that information with other platform available online, to grab the data regarding the relationship between the world temperature raising and the sea level:  
+https://tidesandcurrents.noaa.gov/sltrends/sltrends.html  
+http://www.floodmap.net/  
+https://sealevel.nasa.gov/data-analysis-tool  
+https://www.sealevels.org/#sources  
+https://seeing.climatecentral.org  
 
-We mixed again them with data about city and their population, area, density, and their elevation. These data are available on local specific opendata (e.g. ISTAT for Italy), but for us was simpler to use Wikipedia to access to them in the same way for every city worldwide.
-https://en.wikipedia.org/wiki/
+We mixed again them with data about city and their population, area, density, and their elevation. These data are available on local specific opendata (e.g. ISTAT for Italy), but for us was simpler to use Wikipedia to access to them in the same way for every city worldwide.  
+https://en.wikipedia.org/wiki/  
 
 The city is choosen programmatically using the IP address of the device running the app, using public API. 
 
 #### What we wanted to show
 Our idea is to show, in this first prototype:
-population
-area
-density
-elevation.
+population  
+area  
+density  
+elevation.  
 The city is retrieved thanks to API query related to the public IP .
 The data related to the city are retrieved thanks to Wikipedia.
 We retrieved the data related to sea level change related to temperature raising on the sites listed above.
@@ -57,11 +57,11 @@ Then our idea it to show how these data will change while raising the temperatur
 One of the consequences of the temperature raising will be of course the raise of the sea level.
 The sea level raising will of course change the topography, the habitable area and the population density. This is the first noticeable thing.
 
-In the next version of our tool, we’d like to collect data related to:
-plantation / farming
-industry
-viability
-...
+In the next version of our tool, we’d like to collect data related to:  
+plantation / farming  
+industry  
+viability  
+...  
 And how the sea level and temperature raising will change them together with economy, way of life, organizations, ...
 
 
