@@ -26,17 +26,17 @@ We have experienced in many museum that a physical interface  engage more the vi
 So we worked on different aspects:
 #### Where collect the data needed
 we have looked between the data published by NASA, and the graphical tools released by them:
-https://sealevel.nasa.gov/data/virtual-earth-system-laboratory
-https://sealevel.nasa.gov/vesl/web/sea-level/slr-eustatic/
-https://sealevel.nasa.gov/vesl/web/sea-level/slr-uplift/
-https://sealevel.nasa.gov/data-analysis-tool
+⋅⋅*https://sealevel.nasa.gov/data/virtual-earth-system-laboratory
+⋅⋅*https://sealevel.nasa.gov/vesl/web/sea-level/slr-eustatic/
+⋅⋅*https://sealevel.nasa.gov/vesl/web/sea-level/slr-uplift/
+⋅⋅*https://sealevel.nasa.gov/data-analysis-tool
 
 We mixed that information with other platform available online, to grab the data regarding the relationship between the world temperature raising and the sea level:
-https://tidesandcurrents.noaa.gov/sltrends/sltrends.html
-http://www.floodmap.net/
-https://sealevel.nasa.gov/data-analysis-tool
-https://www.sealevels.org/#sources
-https://seeing.climatecentral.org
+⋅⋅*https://tidesandcurrents.noaa.gov/sltrends/sltrends.html
+⋅⋅*http://www.floodmap.net/
+⋅⋅*https://sealevel.nasa.gov/data-analysis-tool
+⋅⋅*https://www.sealevels.org/#sources
+⋅⋅*https://seeing.climatecentral.org
 
 We mixed again them with data about city and their population, area, density, and their elevation. These data are available on local specific opendata (e.g. ISTAT for Italy), but for us was simpler to use Wikipedia to access to them in the same way for every city worldwide.
 https://en.wikipedia.org/wiki/
